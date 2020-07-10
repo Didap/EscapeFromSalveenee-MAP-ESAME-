@@ -2,7 +2,7 @@
 
 /**
  *
- * @author tapir
+ * @author w
  */
 public class Player {
     

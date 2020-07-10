@@ -47,7 +47,7 @@ public class Bag {
     
     public String addItem(String item){
         String  message;
-        System.out.println("Tavara:"+item);
+        System.out.println(":"+item);
         stuff.add(new Item(0,0,item));
         
         if(item.trim().equals("Chiave")){

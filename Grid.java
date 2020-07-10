@@ -16,9 +16,7 @@ public final class Grid {
     private ArrayList<Area> areas;
     private ArrayList<Item> items;
     private ArrayList<UseSquare> uses;
-    //private NpcWoman girl;
-//    private RemoteLocks remotelocks = new RemoteLocks();
-   
+  
     HashMap<String, String> hashitems = new HashMap<String, String>();
     HashMap<String, String> hashuses = new HashMap<String, String>();
     
@@ -106,7 +104,7 @@ public final class Grid {
                     itemSum++;
                 }
                 
-                // use square array
+                // usa matrici
                 if(grid[x][y] == 'O'){
                     String sUse = this.hashuses.get(useSum+"");
                     System.out.println(sUse);
@@ -117,9 +115,9 @@ public final class Grid {
                     useSum++;
                 }
                 
-                // in the future do a dynamic way to set more npc:s
+                
                 if(grid[x][y] == 'A'){
-                   NpcWoman.setNpc(x,y,"First aid kit","Woman prisoner"); 
+                   NpcWoman.setNpc(x,y,"Medikit","Prigioniera"); 
                    grid[x][y]='.';
                 }
                 if(grid[x][y] == 'G'){
