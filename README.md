@@ -92,7 +92,8 @@ Schermate di esempio
 
 ## Struttura Algebrica [Sprite]
 
-![Struttura Algebrica](/algebric.png)
+![Struttura Algebrica 1](/algebric.png)
+![Struttura Algebrica 2](/algebric2.png)
 
 
 ## Fatto con
