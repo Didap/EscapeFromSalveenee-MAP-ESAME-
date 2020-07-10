@@ -90,7 +90,7 @@ Schermate di esempio
 
 ![Diagramma Classi](/uml.png)
 
-## Struttura Algebrica [Sprite]
+## Struttura Algebrica [EscapeFromSalveenee]
 
 ![Struttura Algebrica 1](/specifica.png)
 
