@@ -1,4 +1,4 @@
-# EscapeFromSalveenee ricordati di caricare i nuovi files
+# EscapeFromSalveenee
 ## Presentazione dell'architettura del sistema
 
 Avventura testuale all'interno di una "grafica" testuale, ovvero una nave dove ci si può muovere interagendo con la UI (sempre testuale) 
