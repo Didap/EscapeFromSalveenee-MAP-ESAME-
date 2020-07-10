@@ -86,7 +86,7 @@ Schermate di esempio
 ![demo](/demo.gif)
 
 
-## Diagramma delle Classi
+## Diagramma delle Classi più importanti
 
 ![Diagramma Classi](/uml.png)
 
