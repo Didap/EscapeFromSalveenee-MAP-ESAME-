@@ -83,7 +83,7 @@ mappa, e le varie interazioni (tipo u=usa)
 ```
 Schermate di esempio
 ```
-![demo](/demo.gif)
+![demo](/demo1.gif)
 
 
 ## Diagramma delle Classi più importanti
