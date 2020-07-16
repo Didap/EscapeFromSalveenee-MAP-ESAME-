@@ -90,9 +90,9 @@ Schermate di esempio
 
 ![Diagramma Classi](/uml.png)
 
-## Struttura Algebrica [EscapeFromSalveenee]
+## Specifiche [Grid]
 
-![Struttura Algebrica 1](/specifica.png)
+![Struttura Algebrica 1](/specifiche.jpeg)
 
 
 
